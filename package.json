@@ -1,6 +1,6 @@
 {
-  "name": "ttk-rz-ticket-bot",
-  "version": "1.0.0",
+  "name": "ttkrz-ticket-bot",
+  "version": "2.0.0",
   "description": "TTK RZ Tickets 2.0 Discord ticket bot",
   "main": "index.js",
   "scripts": {
