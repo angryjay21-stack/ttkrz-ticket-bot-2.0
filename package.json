@@ -1,0 +1,16 @@
+{
+  "name": "ttk-rz-ticket-bot",
+  "version": "1.0.0",
+  "description": "TTK RZ Tickets 2.0 Discord ticket bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
